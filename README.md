@@ -4,7 +4,16 @@ A lightweight and educational TCP port scanner written in Python. This tool scan
 
 >  This project is intended for educational purposes only.
 
----
+### Syntax
+port <HOST> <START_PORT> <END_PORT>
+
+### Examples
+help
+port 127.0.0.1 20 100
+port scanme.nmap.org 1 1024
+port example.com 80 443
+
+
 
 ##  Overview
 
