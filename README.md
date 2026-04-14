@@ -4,13 +4,6 @@ A lightweight and educational TCP port scanner written in Python. This tool scan
 
 >  This project is intended for educational purposes only.
 
-### Examples
-help
-port 127.0.0.1 20 100
-port scanme.nmap.org 1 1024
-port example.com 80 443
-
-
 
 ##  Overview
 
@@ -20,7 +13,6 @@ This port scanner allows users to:
 - Detect common services running on those ports.
 - Retrieve server banners if available.
 - Practice fundamental networking and cybersecurity concepts.
-
 
 ---
 
