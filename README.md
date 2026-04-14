@@ -2,7 +2,7 @@
 
 A lightweight and educational TCP port scanner written in Python. This tool scans a target host for open ports, identifies common services, and retrieves basic banners where available.
 
-> ⚠️ This project is intended for educational purposes only.
+>  This project is intended for educational purposes only.
 
 ---
 
@@ -19,15 +19,15 @@ It is ideal for beginners learning about penetration testing, networking, and Py
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🔎 TCP port scanning
-- 🌐 Hostname or IP address support
-- ⚡ Adjustable scanning speed via socket timeouts
-- 🛠️ Service detection using standard port mappings
-- 📡 Basic banner grabbing
-- 📋 Command-line interface
-- 📚 Built for educational and learning purposes
+-  TCP port scanning
+-  Hostname or IP address support
+-  Adjustable scanning speed via socket timeouts
+-  Service detection using standard port mappings
+-  Basic banner grabbing
+-  Command-line interface
+-  Built for educational and learning purposes
 
 ---
 
