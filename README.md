@@ -4,8 +4,8 @@ A lightweight and educational TCP port scanner written in Python. This tool scan
 
 >  This project is intended for educational purposes only.
 
-### Syntax
-port <HOST> <START_PORT> <END_PORT>
+### USEAGE
+port *host* *port1* *port2*
 
 ### Examples
 help
