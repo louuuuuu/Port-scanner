@@ -31,7 +31,7 @@ It is ideal for beginners learning about penetration testing, networking, and Py
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 - Python 3.x
 - No external libraries required
