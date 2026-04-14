@@ -6,7 +6,7 @@ A lightweight and educational TCP port scanner written in Python. This tool scan
 
 ---
 
-## 📖 Overview
+##  Overview
 
 This port scanner allows users to:
 - Scan a specified range of TCP ports.
