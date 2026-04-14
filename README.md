@@ -4,6 +4,11 @@ A lightweight and educational TCP port scanner written in Python. This tool scan
 
 >  This project is intended for educational purposes only.
 
+##  Usage
+- port [HOST] [PORT1] [PORT2]
+- help
+
+
 
 ##  Features
 
