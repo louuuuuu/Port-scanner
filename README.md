@@ -1,3 +1,14 @@
+A simple port scanner
+-
+
+
+
+
+
+
+
+
+
 Disclaimer
 -
 This repository is for educational purposes only. All information is intended to promote ethical cybersecurity practices.
