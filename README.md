@@ -1,4 +1,4 @@
-# 🔍 Simple Python Port Scanner
+#  Simple Python Port Scanner
 
 A lightweight and educational TCP port scanner written in Python. This tool scans a target host for open ports, identifies common services, and retrieves basic banners where available.
 
