@@ -5,7 +5,7 @@ A lightweight and educational TCP port scanner written in Python. This tool scan
 >  This project is intended for educational purposes only.
 
 ### USEAGE
-port *host* *port1* *port2*
+**port** **host** **port1** **port2**
 
 ### Examples
 help
